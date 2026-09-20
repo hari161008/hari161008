@@ -7,50 +7,54 @@
 
   <br/><br/>
 
-  <!-- PROFILE HEADER -->
-  <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/hari161008/About/main/Assets/Profile%20Picture%201.jpg&w=224&h=224&fit=cover&a=center" alt="Hari Prabhu" width="112" height="112" style="border-radius: 50%; border: 3px solid #7F52FF;" />
-
-  # Hari Prabhu
-  ### Independent Android Developer &bull; Open-Source Craftsman &bull; Material You Enthusiast
-  
-  <p align="center">
-    <b>@SVHP</b> &bull; <b>coolappstore</b>
-  </p>
-
-  <!-- QUICK SOCIAL BADGES (Vector Badges) -->
-  <p align="center">
-    <a href="https://hariprabhu.com" target="_blank">
-      <img src="https://img.shields.io/badge/Website-hariprabhu.com-7F52FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-    </a>
-    <a href="https://github.com/hari161008" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-hari161008-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://t.me/hariprabhu1008" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-@hariprabhu1008-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-    <a href="https://www.linkedin.com/in/hari-prabhu-280919411/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Hari%20Prabhu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:hariprabhu1008@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-hariprabhu1008-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://www.reddit.com/user/Hari16108/" target="_blank">
-      <img src="https://img.shields.io/badge/Reddit-u%2FHari16108-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
-    </a>
-  </p>
-
-  <!-- SPONSOR & DONATE QUICK PILLS -->
-  <p align="center">
-    <a href="https://github.com/sponsors/hari161008">
-      <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" />
-    </a>
-    <a href="https://buymeacoffee.com/hariprabhu">
-      <img src="https://img.shields.io/badge/Support-Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
-    </a>
-    <a href="#support--fuel-the-craft">
-      <img src="https://img.shields.io/badge/Donate-UPI%20%2F%20BHIM-00B0FF?style=flat-square&logo=googlepay&logoColor=white" alt="UPI" />
-    </a>
-  </p>
+  <!-- PROFILE HEADER (2-Column Layout) -->
+  <table>
+    <tr>
+      <td width="160" align="center" valign="middle">
+        <a href="https://hariprabhu.com" target="_blank">
+          <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/hari161008/About/main/Assets/Profile%20Picture%201.jpg&w=280&h=280&fit=cover&a=center" alt="Hari Prabhu" width="130" height="130" style="border-radius: 50%; border: 3px solid #7F52FF;" />
+        </a>
+      </td>
+      <td align="left" valign="middle">
+        <h1>Hari Prabhu</h1>
+        <p>
+          <b>Independent Android Developer &bull; Open-Source Craftsman &bull; Material You Enthusiast</b><br/>
+          <sub><b>@SVHP</b> &bull; <b>coolappstore</b></sub>
+        </p>
+        <p>
+          <a href="https://hariprabhu.com" target="_blank">
+            <img src="https://img.shields.io/badge/Website-hariprabhu.com-7F52FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+          </a>
+          <a href="https://github.com/hari161008" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-hari161008-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+          </a>
+          <a href="https://t.me/hariprabhu1008" target="_blank">
+            <img src="https://img.shields.io/badge/Telegram-@hariprabhu1008-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+          </a>
+          <a href="https://www.linkedin.com/in/hari-prabhu-280919411/" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-Hari%20Prabhu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+          </a>
+          <a href="mailto:hariprabhu1008@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-hariprabhu1008-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+          </a>
+          <a href="https://www.reddit.com/user/Hari16108/" target="_blank">
+            <img src="https://img.shields.io/badge/Reddit-u%2FHari16108-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+          </a>
+        </p>
+        <p>
+          <a href="https://github.com/sponsors/hari161008">
+            <img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" />
+          </a>
+          <a href="https://buymeacoffee.com/hariprabhu">
+            <img src="https://img.shields.io/badge/Support-Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
+          </a>
+          <a href="#support--fuel-the-craft">
+            <img src="https://img.shields.io/badge/Donate-UPI%20%2F%20BHIM-00B0FF?style=flat-square&logo=googlepay&logoColor=white" alt="UPI" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
