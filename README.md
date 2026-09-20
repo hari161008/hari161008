@@ -1,14 +1,14 @@
 <div align="center">
 
-  <!-- BANNER (16:9 Ratio, Reduced Size) -->
+  <!-- BANNER (True 16:9 Center-Cropped via Dynamic Cover, Reduced Size) -->
   <a href="https://hariprabhu.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/hari161008/About/main/Assets/Everlasting%20Projects%20Banner.png" alt="Everlasting Projects Banner" width="640" height="360" style="max-width: 100%; aspect-ratio: 16/9; object-fit: cover; border-radius: 14px;" />
+    <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/hari161008/About/main/Assets/Everlasting%20Projects%20Banner.png&w=1280&h=720&fit=cover&a=center" alt="Everlasting Projects Banner" width="640" height="360" style="max-width: 100%; border-radius: 14px;" />
   </a>
 
   <br/><br/>
 
   <!-- PROFILE HEADER -->
-  <img src="https://raw.githubusercontent.com/hari161008/About/main/Assets/Profile%20Picture%201.jpg" alt="Hari Prabhu" width="112" height="112" style="border-radius: 50%; border: 3px solid #7F52FF; object-fit: cover;" />
+  <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/hari161008/About/main/Assets/Profile%20Picture%201.jpg&w=224&h=224&fit=cover&a=center" alt="Hari Prabhu" width="112" height="112" style="border-radius: 50%; border: 3px solid #7F52FF;" />
 
   # Hari Prabhu
   ### Independent Android Developer &bull; Open-Source Craftsman &bull; Material You Enthusiast
@@ -88,7 +88,7 @@ Explore my suite of open-source Android apps, built to elevate the smartphone ex
 
 <p align="center">
   <a href="https://hariprabhu.com/Ever-Dialer" target="_blank">
-    <img src="https://raw.githubusercontent.com/hari161008/Website-For-Everlasting-Android-Tweak/main/Ever%20Dialer/Assets/Banner%20and%20Icon/Ever%20Dialer%20Banner.png" alt="Ever Dialer Banner" width="560" height="315" style="max-width: 100%; aspect-ratio: 16/9; object-fit: cover; border-radius: 12px;" />
+    <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/hari161008/Website-For-Everlasting-Android-Tweak/main/Ever%20Dialer/Assets/Banner%20and%20Icon/Ever%20Dialer%20Banner.png&w=1120&h=630&fit=cover&a=center" alt="Ever Dialer Banner" width="560" height="315" style="max-width: 100%; border-radius: 12px;" />
   </a>
 </p>
 
@@ -113,7 +113,7 @@ Explore my suite of open-source Android apps, built to elevate the smartphone ex
 
 <p align="center">
   <a href="https://hariprabhu.com/Ever-Haptics" target="_blank">
-    <img src="https://raw.githubusercontent.com/hari161008/Website-For-Everlasting-Android-Tweak/main/Ever%20Haptics/Assets/Ever%20Haptics%20Banner.png" alt="Ever Haptics Banner" width="560" height="315" style="max-width: 100%; aspect-ratio: 16/9; object-fit: cover; border-radius: 12px;" />
+    <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/hari161008/Website-For-Everlasting-Android-Tweak/main/Ever%20Haptics/Assets/Ever%20Haptics%20Banner.png&w=1120&h=630&fit=cover&a=center" alt="Ever Haptics Banner" width="560" height="315" style="max-width: 100%; border-radius: 12px;" />
   </a>
 </p>
 
@@ -138,7 +138,7 @@ Explore my suite of open-source Android apps, built to elevate the smartphone ex
 
 <p align="center">
   <a href="https://hariprabhu.com/Ever-Call-Recorder" target="_blank">
-    <img src="https://raw.githubusercontent.com/hari161008/Website-For-Everlasting-Android-Tweak/main/Ever%20Call%20Recorder/Assets/Ever%20Call%20Recorder%20Banner.png" alt="Ever Call Recorder Banner" width="560" height="315" style="max-width: 100%; aspect-ratio: 16/9; object-fit: cover; border-radius: 12px;" />
+    <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/hari161008/Website-For-Everlasting-Android-Tweak/main/Ever%20Call%20Recorder/Assets/Ever%20Call%20Recorder%20Banner.png&w=1120&h=630&fit=cover&a=center" alt="Ever Call Recorder Banner" width="560" height="315" style="max-width: 100%; border-radius: 12px;" />
   </a>
 </p>
 
@@ -163,7 +163,7 @@ Explore my suite of open-source Android apps, built to elevate the smartphone ex
 
 <p align="center">
   <a href="https://hariprabhu.com/Ever-Wall/" target="_blank">
-    <img src="https://raw.githubusercontent.com/hari161008/Website-For-Everlasting-Android-Tweak/main/Ever%20Wall/Assets/Ever%20Wall%20Banner.png" alt="Ever Wall Banner" width="560" height="315" style="max-width: 100%; aspect-ratio: 16/9; object-fit: cover; border-radius: 12px;" />
+    <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/hari161008/Website-For-Everlasting-Android-Tweak/main/Ever%20Wall/Assets/Ever%20Wall%20Banner.png&w=1120&h=630&fit=cover&a=center" alt="Ever Wall Banner" width="560" height="315" style="max-width: 100%; border-radius: 12px;" />
   </a>
 </p>
 
@@ -188,7 +188,7 @@ Explore my suite of open-source Android apps, built to elevate the smartphone ex
 
 <p align="center">
   <a href="https://hariprabhu.com/Everlasting-Android-Tweak" target="_blank">
-    <img src="https://raw.githubusercontent.com/hari161008/Website-For-Everlasting-Android-Tweak/main/Everlasting%20Android%20Tweak/Assets/Everlasting%20Android%20Tweak%20Banner.png" alt="Everlasting Android Tweak Banner" width="560" height="315" style="max-width: 100%; aspect-ratio: 16/9; object-fit: cover; border-radius: 12px;" />
+    <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/hari161008/Website-For-Everlasting-Android-Tweak/main/Everlasting%20Android%20Tweak/Assets/Everlasting%20Android%20Tweak%20Banner.png&w=1120&h=630&fit=cover&a=center" alt="Everlasting Android Tweak Banner" width="560" height="315" style="max-width: 100%; border-radius: 12px;" />
   </a>
 </p>
 
