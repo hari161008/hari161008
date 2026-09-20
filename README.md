@@ -318,18 +318,43 @@ Building high-quality, ad-free, completely open-source apps requires ongoing tim
 
 ## <img src="https://api.iconify.design/lucide/mail.svg?color=%237F52FF" width="24" height="24" valign="middle" /> Get In Touch
 
-Whether you want to collaborate on an Android project, submit feedback or bug reports, or simply talk tech and design — my inbox is always open.
+> <img src="https://api.iconify.design/lucide/radio.svg?color=%2334A853" width="16" height="16" valign="middle" /> **Available for Android & Web Collaborations**  
+> Got an idea? Whether you want to collaborate on a new project, report an issue, or simply talk tech and design — feel free to reach out anytime!
+
+<br/>
 
 <div align="center">
 
-| Platform | Channel | Link |
-| :--- | :--- | :--- |
-| <img src="https://api.iconify.design/lucide/globe.svg?color=%237F52FF" width="16" height="16" valign="middle" /> **Official Website** | `hariprabhu.com` | [hariprabhu.com](https://hariprabhu.com) |
-| <img src="https://api.iconify.design/lucide/mail.svg?color=%23EA4335" width="16" height="16" valign="middle" /> **Email** | `hariprabhu1008@gmail.com` | [Send an Email](mailto:hariprabhu1008@gmail.com) |
-| <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="16" height="16" valign="middle" /> **Telegram** | `@hariprabhu1008` | [Chat on Telegram](https://t.me/hariprabhu1008) |
-| <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="16" height="16" valign="middle" /> **LinkedIn** | `hari-prabhu` | [Connect on LinkedIn](https://www.linkedin.com/in/hari-prabhu-280919411/) |
-| <img src="https://cdn.simpleicons.org/reddit/FF4500" width="16" height="16" valign="middle" /> **Reddit** | `u/Hari16108` | [Visit Reddit Profile](https://www.reddit.com/user/Hari16108/) |
-| <img src="https://cdn.simpleicons.org/github/7F52FF" width="16" height="16" valign="middle" /> **GitHub** | `@hari161008` | [Follow on GitHub](https://github.com/hari161008) |
+  <!-- ROW 1: Website & Email -->
+  <a href="https://hariprabhu.com" target="_blank">
+    <img src="https://img.shields.io/badge/Official%20Website-hariprabhu.com-7F52FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=161b22" height="42" alt="Website" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:hariprabhu1008@gmail.com">
+    <img src="https://img.shields.io/badge/Direct%20Email-hariprabhu1008%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" height="42" alt="Email" />
+  </a>
+
+  <br/><br/>
+
+  <!-- ROW 2: Telegram & LinkedIn -->
+  <a href="https://t.me/hariprabhu1008" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@hariprabhu1008-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=161b22" height="42" alt="Telegram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hari-prabhu-280919411/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Hari%20Prabhu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" height="42" alt="LinkedIn" />
+  </a>
+
+  <br/><br/>
+
+  <!-- ROW 3: GitHub & Reddit -->
+  <a href="https://github.com/hari161008" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-hari161008-24292e?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" height="42" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.reddit.com/user/Hari16108/" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-u%2FHari16108-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=161b22" height="42" alt="Reddit" />
+  </a>
 
 </div>
 
